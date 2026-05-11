@@ -11,3 +11,6 @@ This laboratory task aims to create a GitHub repository, configure GitHub Pages,
 
 ### Outcome
 The portfolio website is successfully published on GitHub Pages. The CI/CD pipeline works automatically and updates the website after every push.
+
+### Screenshot
+All screenshots of repository creation, GitHub Actions workflow running status and GitHub Pages live link are stored in the **images** folder.
