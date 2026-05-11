@@ -9,3 +9,6 @@ CPU scheduling manages the order of process execution in operating systems.
 - Round Robin: Time slice based fair scheduling for multitasking.
 
 Simulation code is written in Python to calculate waiting time and turnaround time for comparison.
+
+### Screenshot
+Screenshots of scheduling code running output and algorithm comparison results are stored in the **images** folder.
