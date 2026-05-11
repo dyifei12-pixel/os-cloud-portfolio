@@ -10,3 +10,6 @@ Install Ubuntu virtual machine, configure network and enable SSH for remote comm
 
 ### Outcome
 Virtual machine runs normally, SSH connection is stable, and remote terminal access is successful.
+
+### Screenshot
+Screenshots of VM configuration, SSH installation and remote connection interface are stored in the **images** folder.
