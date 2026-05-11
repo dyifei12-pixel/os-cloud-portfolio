@@ -10,3 +10,6 @@ To design and build a static portfolio website using pure HTML, CSS and JavaScri
 
 ### Outcome
 The website has clear navigation, clean layout and simple interactive functions. It is fully readable on both desktop and mobile devices.
+
+### Screenshot
+Screenshots of website layout, navigation bar and interactive effects are stored in the **images** folder.
