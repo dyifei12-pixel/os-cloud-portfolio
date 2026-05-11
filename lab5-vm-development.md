@@ -10,3 +10,6 @@ Develop and run a simple program inside the Ubuntu virtual machine.
 
 ### Outcome
 Simple program runs correctly inside VM. The local web server is accessible from the host system.
+
+### Screenshot
+Screenshots of Python program running and local web server access are stored in the **images** folder.
