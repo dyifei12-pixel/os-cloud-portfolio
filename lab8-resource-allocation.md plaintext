@@ -5,3 +5,6 @@ Study resource allocation, deadlock conditions and Banker’s Algorithm for dead
 ### Summary
 Deadlock occurs when four necessary conditions hold: mutual exclusion, hold and wait, no preemption, circular wait.
 Banker’s Algorithm checks system safe state before resource allocation to prevent deadlock and maintain system stability.
+
+### Screenshot
+Screenshots of Banker's Algorithm running output and safe sequence result are stored in the **images** folder.
